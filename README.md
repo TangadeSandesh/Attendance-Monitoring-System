@@ -1,6 +1,6 @@
 ---
 title: Attendance Monitoring System
-emoji: 🌖
+emoji: 🔨
 colorFrom: pink
 colorTo: blue
 sdk: streamlit
